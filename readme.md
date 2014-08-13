@@ -6,7 +6,7 @@ Reads all directories in path.
 
 ```js
 var readdir = require('stream-dirs');
-readdir('./').on('data', console.log;
+readdir('./').on('data', console.log);
 ```
 
 ## API
