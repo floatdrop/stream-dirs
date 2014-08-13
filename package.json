@@ -1,0 +1,34 @@
+{
+  "name": "stream-dirs",
+  "version": "0.0.0",
+  "description": "Streams directories as path and stat objects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floatdrop/stream-dirs.git"
+  },
+  "keywords": [
+    "stream",
+    "readdir"
+  ],
+  "author": "Vsevolod Strukchinsky <floatdrop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floatdrop/stream-dirs/issues"
+  },
+  "homepage": "https://github.com/floatdrop/stream-dirs",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4",
+    "stream-assert": "^0.1.0"
+  },
+  "dependencies": {
+    "through2": "^0.6.1"
+  }
+}
