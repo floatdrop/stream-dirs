@@ -1,6 +1,6 @@
 # stream-dirs [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
 
-Reads all directories in path.
+Reads all directories in path (without hidden - that begins with dot).
 
 ## Usage
 
