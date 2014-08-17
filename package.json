@@ -26,7 +26,10 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "should": "^4.0.4",
-    "stream-assert": "^0.1.0"
+    "stream-assert": "^0.1.0",
+    "coveralls": "^2.7.0",
+    "istanbul": "^0.3.0",
+    "mocha-lcov-reporter": "^0.0.1"
   },
   "dependencies": {
     "through2": "^0.6.1"

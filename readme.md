@@ -1,4 +1,4 @@
-# stream-dirs [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
+# stream-dirs [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Status][depstat-image]][depstat-url]
 
 Reads all directories in path (without hidden - that begins with dot).
 
@@ -27,3 +27,6 @@ MIT (c) 2014 Vsevolod Strukchinsky
 
 [depstat-url]: https://david-dm.org/floatdrop/stream-dirs
 [depstat-image]: https://david-dm.org/floatdrop/stream-dirs.png?theme=shields.io
+
+[coveralls-url]: https://coveralls.io/r/floatdrop/stream-dirs
+[coveralls-image]: https://coveralls.io/repos/floatdrop/stream-dirs/badge.png
